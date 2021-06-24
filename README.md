@@ -2,7 +2,7 @@
 A simple algorithm for creating and solving a beamforming optimization problem is considered.
 The output of the beamformer network is tried to be recovered from the noise and interference in the channel.
 A random noise is created, and it can be used for several comparison simulation from the given script. 
-MATLAB CVX tool is used for solving the convex optimization problem.
+MATLAB CVX tool is used for solving the convex optimization problem. Therefore, having a CVX module is a must.
 
 Function computeOptimizationProblem.m has
 Inputs
